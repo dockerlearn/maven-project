@@ -205,6 +205,14 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+     <repositories>
+        <repository>
+            <id>couchbase</id>
+            <name>couchbase repo</name>
+            <url>http://files.couchbase.com/maven2</url>
+            <snapshots><enabled>false</enabled></snapshots>
+        </repository>
+     </repositories>
 
   <scm>
     <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
