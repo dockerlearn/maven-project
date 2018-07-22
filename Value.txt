@@ -12,3 +12,4 @@ testing3testing 4
 >>>>>>> 867b81b4c64e3128ce4cfa9762591749e443013e
 6
 7
+i8
