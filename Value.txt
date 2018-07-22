@@ -5,4 +5,9 @@ testing
 testing2
 wjens
 testing3testing 4
+<<<<<<< HEAD
 666666
+=======
+5
+>>>>>>> 867b81b4c64e3128ce4cfa9762591749e443013e
+6
