@@ -12,7 +12,7 @@
                 }
         </script>
   </head>
-  <body>
+  <body bgcolor="#E6E6FA">
         value1 = <input type="text" id="value1" name="value1" value="1"/>
         value2 = <input type="text" id="value2" name="value2" value="2"/>
         <input type="button" name="Sumbit" value="Click here" onclick="javascript:addNumbers()"/>
