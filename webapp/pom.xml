@@ -20,16 +20,6 @@
 
     <plugins>
       <plugin>
-        <groupId>com.google.cloud.tools</groupId>
-        <artifactId>jib-maven-plugin</artifactId>
-        <version>0.9.9</version>
-        <configuration>
-          <to>
-            <image>gcr.io/coral-atom-205708/maven-project:${BUILD_NUMBER}</image>
-          </to>
-        </configuration>
-      </plugin>
-      <plugin>
         <groupId>org.mortbay.jetty</groupId>
         <artifactId>jetty-maven-plugin</artifactId>
       </plugin>
