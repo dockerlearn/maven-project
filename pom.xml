@@ -32,8 +32,7 @@
   <build>
            
     <plugins>
-      <plugins>
-       <plugin>
+      <plugin>
         <groupId>com.google.cloud.tools</groupId>
         <artifactId>jib-maven-plugin</artifactId>
         <version>0.9.9</version>
@@ -42,7 +41,7 @@
             <image>gcr.io/coral-atom-205708/maven-project:${BUILD_NUMBER}</image>
           </to>
         </configuration>
-       </plugin>       
+      </plugin>       
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
